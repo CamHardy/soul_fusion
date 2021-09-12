@@ -1,0 +1,53 @@
+{
+  "body": {
+    "white": {
+      "white": 1.0,
+      "green": 0.9,
+      "blue": 0.8,
+      "purple": 0.7,
+      "orange": 0.6,
+      "rainbow": 0.5
+    },
+    "green": {
+      "white": 0.1,
+      "green": 1.0,
+      "blue": 0.9,
+      "purple": 0.8,
+      "orange": 0.7,
+      "rainbow": 0.6
+    },
+    "blue": {
+      "white": 0.2,
+      "green": 0.1,
+      "blue": 1.0,
+      "purple": 0.9,
+      "orange": 0.8,
+      "rainbow": 0.7
+    },
+    "purple": {
+      "white": 0.3,
+      "green": 0.2,
+      "blue": 0.1,
+      "purple": 1.0,
+      "orange": 0.9,
+      "rainbow": 0.8
+    },
+    "orange": {
+      "white": 0.4,
+      "green": 0.3,
+      "blue": 0.2,
+      "purple": 0.1,
+      "orange": 1.0,
+      "rainbow": 0.9
+    },
+    "rainbow": {
+      "white": 0.5,
+      "green": 0.4,
+      "blue": 0.3,
+      "purple": 0.2,
+      "orange": 0.1,
+      "rainbow": 1.0
+    }
+  },
+  "asset": {}
+}
